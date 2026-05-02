@@ -1,0 +1,19 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram==2.15.0",
+    "faker>=37.1.0",
+    "pyrogram>=2.0.106",
+    "pysocks>=1.7.1",
+    "pytelegrambotapi>=4.27.0",
+    "requests>=2.32.3",
+    "telegram>=0.0.1",
+    "telethon>=1.40.0",
+    "tgcrypto>=1.2.5",
+    "tqdm>=4.67.1",
+    "urllib3>=2.4.0",
+]
